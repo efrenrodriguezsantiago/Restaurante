@@ -1,0 +1,60 @@
+body{
+    background: rgb(74, 161, 157);
+   
+}
+
+h1{
+    background-color: rgb(69, 140, 231);
+    font-size: 2em;
+    text-align: center;
+}
+.h3{
+    background-color: blueviolet;
+    text-align: center;
+}
+
+
+.caja1{
+    text-align: center;
+    background: violet;
+    margin: auto;
+    margin-top: 50px;
+    width: 350px;
+    height: 350px;
+    border: 4px solid;
+    overflow: auto;
+}
+
+.caja2{
+    text-align: center;
+    background: rgb(27, 6, 214);
+    margin: auto;
+    margin-top: 50px;
+    width: 350px;
+    height: 350px;
+    border: 4px solid;
+    overflow: auto;
+    
+}
+
+.caja3{
+    text-align: center;
+    background: rgb(5, 208, 235);
+    margin: auto;
+    margin-top: 50px;
+    width: 350px;
+    height: 350px;
+    border: 4px solid;
+    overflow: auto;
+}
+
+.caja4{
+    text-align: center;
+    background: rgb(216, 79, 38);
+    margin: auto;
+    margin-top: 50px;
+    width: 350px;
+    height: 350px;
+    border: 4px solid;
+    overflow: auto;
+}
